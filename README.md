@@ -3,7 +3,7 @@ Name: BIZIMA Peace
 
 ID: 27778
 
-Course:Database Development with PL/SQL
+Course: Database Development with PL/SQL
 
 Instructor: Eric Maniraguha
 
