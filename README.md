@@ -3,15 +3,15 @@ Oracle Enterprise Manager
 # Peace_plsqlauca_27778
 Oracle Enterprise Manager Assignment
 
-# 🧩 Oracle Database Configuration and OEM Express Management Report
+# Oracle Database Configuration and OEM Express Management Report
 
-## 📘 1. Introduction
+## 1. Introduction
 This project demonstrates the configuration of an **Oracle 21c Pluggable Database (PDB)** and enabling web-based management via **Oracle Enterprise Manager (OEM) Express**.  
 It covers listener setup, database connectivity, OEM configuration, and troubleshooting of common port and connection issues.
 
 ---
 
-## ⚙️ 2. System Overview
+## 2. System Overview
 **Environment**
 - Oracle Database 21c (64-bit, Windows host)
 - Oracle Listener & XDB services
@@ -27,7 +27,7 @@ It covers listener setup, database connectivity, OEM configuration, and troubles
 
 ---
 
-## 🔧 3. Configuration Procedure
+##  3. Configuration Procedure
 
 ### 3.1 Verify Listener Status
 Check if the Oracle listener is running:
